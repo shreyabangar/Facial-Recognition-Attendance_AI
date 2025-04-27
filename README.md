@@ -1,15 +1,13 @@
 **Facial Recognition Attendance System**<br>
 A real-time facial recognition attendance system built with Python and OpenCV, featuring a Tkinter-based GUI. It detects and recognizes faces using Haar Cascade and LBPH algorithms, and securely stores attendance records in a CSV file.
 
-**Features**
-1. Real-time face detection and recognition
+**Features**1. Real-time face detection and recognition
 2. Tkinter-based user-friendly GUI
 3. Attendance record saved in CSV file
 4. Supports multiple unique users
 5. Built with Python, OpenCV, Haar Cascade, and LBPH algorithms
 
-**Installation**
-Install the required libraries:
+**Installation**Install the required libraries:
 1. pip install opencv-python
 2. pip install numpy
 3. pip install pandas
