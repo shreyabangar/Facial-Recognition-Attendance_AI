@@ -32,5 +32,5 @@ A real-time facial recognition attendance system built with Python and OpenCV, f
 5. Tkinter
 
 
-
+https://github.com/shreyabangar/Facial-Recognition-Attendance_AI/blob/main/Screenshot%202025-04-10%20040710.png
 
